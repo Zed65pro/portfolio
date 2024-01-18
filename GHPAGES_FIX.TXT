@@ -1,0 +1,5 @@
+Use HASHROUTER instead of browserrouter
+
+preappend "./<reponame>" to avoid resource errors
+
+in routes like GO back to home fix route

@@ -9,7 +9,8 @@ export const projectsData = [
     name: "NFT marketplace",
     projectId: "nftmarket",
     version: "v1.0.0",
-    description: "NFT marketplace for users to mint,buy,sell their own NFTs.",
+    description:
+      "NFT marketplace for users to mint,buy, and sell their own NFTs.",
     image: "./portfolio/assets/images/project-images/nftmarketplace.png",
     icon: "./portfolio/assets/images/project-images/nftmarketplace.png",
     link: "https://github.com/Zed65pro/NFTMarketPlace-UI-UX",
