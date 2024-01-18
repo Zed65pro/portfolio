@@ -50,7 +50,7 @@ export const projectsData = [
     ],
     overview:
       "It's a versatile application which resembles a typical social media application allowing functionalities such as posting, liking and chatting with friends.",
-    demo: "./portfolio/assets/videos/SocialMedia.mp4",
+    demo: "./portfolio/assets/videos/socialmedia.mp4",
   },
   {
     name: "Jobie",

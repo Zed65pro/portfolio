@@ -27,7 +27,7 @@ const Navbar = (props) => {
 
   return (
     <Nav>
-      <LogoLink href={constants.ROUTE_HOME} className="logo">
+      <LogoLink href={"/portfolio"} className="logo">
         {logoImg}
       </LogoLink>
       {/* <Toggle onClick={changeTheme}>{icon}</Toggle> */}

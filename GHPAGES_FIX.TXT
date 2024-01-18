@@ -2,4 +2,4 @@ Use HASHROUTER instead of browserrouter
 
 preappend "./<reponame>" to avoid resource errors
 
-in routes like GO back to home fix route
+in a tags like navbar icons also preappend repo name else it will cause bullshit down the line
