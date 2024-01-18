@@ -25,7 +25,7 @@ export const experienceData = [
     location: "Ankara, Turkiye",
     period: "Jun 2022 - Dec 2023",
     description: [],
-    image: "./assets/images/experience-images/sec.jpeg",
+    image: "./portfolio/assets/images/experience-images/sec.jpeg",
   },
   {
     role: "Software Engineer",
@@ -33,7 +33,7 @@ export const experienceData = [
     location: "Abu Dhabi, UAE",
     period: "Jun 2023 - Oct 2023",
     description: [],
-    image: "./assets/images/experience-images/ccs-logo.png",
+    image: "./portfolio/assets/images/experience-images/ccs-logo.png",
   },
 ];
 
@@ -42,7 +42,7 @@ export const educationData = [
     school: "Ankara University",
     period: "Jul 2019 - Jul 2023",
     received: "B.S. in Computer Engineering",
-    image: "./assets/images/experience-images/AnkaraUniv.png",
+    image: "./portfolio/assets/images/experience-images/AnkaraUniv.png",
   },
 ];
 
